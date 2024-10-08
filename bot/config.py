@@ -1,6 +1,6 @@
 import mysql.connector
 
-API_KEY = '7567134299:AAEWLM6yglAQEbRqaQTab2EtlExmR7O-Gyc'
+API_KEY = ''
 
 bot_db = mysql.connector.connect(
     host="localhost",
